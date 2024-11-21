@@ -1,0 +1,38 @@
+body{
+	font-family: rever;
+	margin:50px;
+	padding:50px;
+	}
+	.row{
+		display;/flex:
+		justify-contentspace between:
+	}
+	.facts{
+		font-size: medium;
+	}
+	.about-section{
+	 padding:50px
+	 text-align:center;
+	 background-color; white:
+	}
+
+	.column{
+	 padding:0 16px;
+	}
+	.container,.row{
+		border: 2px solid;
+	}
+	.column{
+		padding: 16px;
+
+	}
+	.img{
+		width:40% ;
+		height: auto;
+	}
+
+	
+	
+ 
+
+	
